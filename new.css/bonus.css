@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+}
+section img{
+    margin: 95px;
+    width: 400px;
+}
+
+header{
+    background-image: url(https://mewallpaper.com/thumbnail/space/7286-planets-in-space-art-free-photo-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header h1{
+    color: rgb(209, 209, 209);
+}
+header h2{
+    margin-top: -15px;
+    color: rgb(209, 209, 209);
+}
+header h3{
+    color: rgb(209, 209, 209);
+}
+
+main img{
+    margin-top: 55px;
+    margin-top: 55px;
+    border-radius: 10px;
+    margin-inline: 200px;
+}
+main div{
+    background-color: grey;
+    width: 30%;
+    margin: auto;
+    border-radius: 5px;
+}
+
+
+main p{
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+main ul{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 30%;
+    width: 900px;
+}
+table{
+    text-align: left;
+    margin-left: 20%;
+}
+tr th{
+    width: 400px;
+    background-color: rgb(104, 104, 104);
+}
+
+.large{
+    width: 900px;
+}
+
+footer{
+    height: 350px;
+    background-image: url(https://wallpaperaccess.com/full/1886920.png);
+}
+footer h2{
+    color: aliceblue;
+}
