@@ -1,0 +1,24 @@
+
+
+section img {
+    margin: -10px;
+    background-color:rgb(107, 159, 219);
+    width:485px;
+    height: 126px;
+    object-fit: cover;
+    object-position: -19% 1%;
+    margin-left: -162px;
+}
+
+h1{
+    font-size: 80px;
+    margin-bottom: -30px;
+}
+h2{
+    color: grey;
+}
+h3{
+    color: grey;
+    margin-top: -20px;
+}
+
