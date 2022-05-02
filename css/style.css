@@ -8,27 +8,54 @@ section img{
     margin-left: -10px;
 }
 
-
+/* regolo la dimensione delle immagini nel main */
 .immagine1{
     width: 950px;
 }
 .immagine2{
     width: 815px;
 }
-
+/* ho notato che il font era leggermente più piccolo nelle scritte subiot dopo le due foto */
 .span{
     font-size: smaller;
 }
+/* per aumentare le dimensione del font di tutto il main */
 main{
     font-size: larger;
 }
+/* per sottilineare in giallo nel lorem ipsum*/
 p span{
     background-color: yellow;
+}
+/* per far si che la lista stesse più a sinistra */
+ul{
+    padding-left: 20px;
 }
 
 table{
     text-align: left;
 }
+/* colorazione e dimensioni della table */
+tr th{
+    width: 400px;
+    background-color: rgb(50, 102, 199);
+}
+.large{
+    width: 900px;
+}
+
+tr:nth-child(1)
+{
+  background-color: rgb(111, 174, 233);  
+}
+tr:nth-child(3)
+
+{
+  background-color: rgb(111, 174, 233);
+}
+
+
+/* inserimento delle immagini */
 .finale{
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
@@ -40,11 +67,12 @@ table{
     background-repeat: no-repeat;
     height: 200px;
 }
-
+/* selettori per cambiare il colore solo dell'h2 che sta sopra le due immagini fornite */
 div h2{
    color: aliceblue;
    padding: 20px;
 }
+
 h1{
     font-size: 70px;
     margin-bottom: -30px;
