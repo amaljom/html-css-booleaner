@@ -1,18 +1,18 @@
-
-
-section img {
-    margin: -10px;
-    background-color:rgb(107, 159, 219);
-    width:485px;
-    height: 126px;
-    object-fit: cover;
-    object-position: -19% 1%;
-    margin-left: -162px;
+section img{
+    padding: 30px;
+    width: 400px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(7, 159, 230);
+    padding-right: 100%;
+    margin-top: -8px;
+    margin-left: -10px;
 }
 
+
 h1{
-    font-size: 80px;
+    font-size: 70px;
     margin-bottom: -30px;
+    margin-top: 0px;
 }
 h2{
     color: grey;
