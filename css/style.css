@@ -9,6 +9,24 @@ section img{
 }
 
 
+.immagine1{
+    width: 950px;
+}
+.immagine2{
+    width: 815px;
+}
+
+.span{
+    font-size: smaller;
+}
+main{
+    font-size: larger;
+}
+p span{
+    background-color: yellow;
+}
+
+
 h1{
     font-size: 70px;
     margin-bottom: -30px;
